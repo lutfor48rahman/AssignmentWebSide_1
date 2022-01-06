@@ -1,0 +1,111 @@
+.flexible{
+    display: flex;
+   margin-bottom: 5%;
+}
+
+.half-width{
+    width: 50%;
+    padding: 5%;
+}
+
+#person2{
+    width: 50%;
+
+}
+
+
+div img{
+    width: 70%;
+    border-radius: 10% 10%;
+    margin-left: 10%;
+}
+.shadow{
+    font-size: 20px;
+    border-left: 3px solid;
+    border-image: linear-gradient(rgb(175, 35, 35),rgb(243, 32, 32));
+    border-image-slice: 1;
+    
+}
+
+.heading{
+    margin-left: 10px;
+}
+
+.thrid-one{
+    width: 33.3%;
+    padding: 5%;
+    margin: 10px;
+    border-radius: 8%;
+    text-align: justify;
+    
+}
+
+
+.ilustrator{
+    height: 50%;
+    width: 80%;
+}
+
+.first-col{
+    background-color: rgb(187, 184, 184);
+}
+
+.second-col{
+    background-color: rgb(230, 214, 214);
+}
+
+.thrid-col{
+    background-color: rgb(238, 202, 202);
+}
+
+.left-right-space{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.mission{
+    text-align: center;
+    padding: 3%;
+    /* font-weight:bolder; */
+    font-size: 50px;
+}
+span{
+    color: orange;
+}
+
+.link-button{
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    padding: 10px 20px;
+    border-radius: 10px 10px;
+}
+
+.small-side{
+    width: 40%;
+    padding: 10px;
+    /* margin-left: 5%; */
+}
+
+.large-side{
+    width: 60%;
+    padding: 10px;
+    /* margin-left: 10%; */
+}
+.margin-skip{
+    margin-left: 10%;
+}
+
+.half{
+    width: 50%;
+    background-color: greenyellow;
+    margin-left: 10px;
+    text-align: center;
+}
+
+.footer{
+    text-align: center;
+    color: white;
+    padding: 3% 3%;
+    background-color: black;
+}
